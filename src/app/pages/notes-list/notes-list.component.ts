@@ -9,7 +9,6 @@ import {
 import { Component, ElementRef, OnInit, Optional, ViewChild } from '@angular/core';
 import { Note } from 'src/app/shared/note.module';
 import { NotesService } from 'src/app/shared/notes.service';
-//import { NoteDetailsComponent } from '../note-details/note-details.component';
 
 @Component({
   selector: 'app-notes-list',
